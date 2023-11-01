@@ -37,7 +37,7 @@ Estudiante:
 //-------------------------------------------------------- Resumen del libro de practicas-------------------------------------------------------------
 
 /*
-  El Capítulo 2 
+  **El Capítulo 2** 
 
 Se enfoca en los tipos de datos y sentencias de alto nivel que se pueden utilizar en la programación en ARM. Comienza con una sección de lectura previa que explica la técnica de optimización llamada loop unrolling o desenrollamiento de bucle, que consiste en sustituir mediante repeticiones del cuerpo del bucle, de tal forma que no perdamos tiempo comparando ni haciendo el salto condicional.
 Se divide en varias secciones que cubren los modos de direccionamiento del ARM, los tipos de datos, las instrucciones de salto y las estructuras de control de alto nivel. En la sección de modos de direccionamiento, se explican los diferentes modos de direccionamiento que se pueden utilizar en la programación en ARM, como el direccionamiento inmediato, el direccionamiento indirecto y el direccionamiento basado en registro.
